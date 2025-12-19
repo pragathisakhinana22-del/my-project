@@ -1,0 +1,43 @@
+.web_page{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/022/899/733/small_2x/beautiful-deer-on-a-background-with-a-sunrise-in-a-clearing-ai-generated-photo.jpeg");
+    background-size:cover;
+    height:100%;
+    width:100%;
+}
+.login-page{
+    backdrop-filter: blur(10px);
+    height:100px;
+    width:100px;
+    padding:150px;
+    padding-left:90px;
+    border-radius:18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bg-1{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:end;
+}
+.login-user{
+    margin-bottom:8px;
+
+}
+
+.login-pass{
+    margin-bottom:40px;
+}
+
+.btn-1{
+   text-align:center;
+   margin-top:40px;
+   margin-left:50px;
+}
+.btn-2{
+    border-color:black;
+    width:70px;
+    height:30px;
+}
+.h1{
+    text-align:center;
+}
